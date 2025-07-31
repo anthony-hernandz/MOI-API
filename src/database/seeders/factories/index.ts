@@ -1,4 +1,3 @@
-import { UsersFactory } from './users.factory';
-import { RolsFactory } from './rols.factory';
-
-export { UsersFactory, RolsFactory };
+export * from './users.factory';
+export * from './rols.factory';
+export * from './permissions.factory';
